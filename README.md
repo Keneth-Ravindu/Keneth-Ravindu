@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gayan Sachintha</h1>
+<h1 align="center">Hi 👋, I'm Keneth Ravindu</h1>
 <h3 align="center">Welcome To My Github Profile</h3>
 
 <p align="center">
   <table align="center">
     <tr>
       <td align="center">
-        <a href="https://github.com/gayan-sachintha">
+        <a href="https://github.com/Keneth-Ravindu">
           <img src="https://badges.pufler.dev/visits/gayan-sachintha/gayan-sachintha?style=flat-square&color=blue&logo=github">
         </a>
       </td>
