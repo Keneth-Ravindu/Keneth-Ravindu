@@ -6,26 +6,26 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Keneth-Ravindu">
-          <img src="https://badges.pufler.dev/visits/gayan-sachintha/gayan-sachintha?style=flat-square&color=blue&logo=github">
+          <img src="https://badges.pufler.dev/visits/Keneth-Ravindu/Keneth-Ravindu?style=flat-square&color=blue&logo=github">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/gayan-sachintha">
-          <img src="https://badges.pufler.dev/years/gayan-sachintha?style=flat-square&color=success&logo=github">
+        <a href="https://github.com/Keneth-Ravindu">
+          <img src="https://badges.pufler.dev/years/Keneth-Ravindu?style=flat-square&color=success&logo=github">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/gayan-sachintha?tab=repositories">
-          <img src="https://badges.pufler.dev/repos/gayan-sachintha?style=flat-square&color=important&logo=github">
+        <a href="https://github.com/Keneth-Ravindu?tab=repositories">
+          <img src="https://badges.pufler.dev/repos/Keneth-Ravindu?style=flat-square&color=important&logo=github">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/gayan-sachintha">
-          <img src="https://badges.pufler.dev/commits/monthly/gayan-sachintha?style=flat-square&color=yellowgreen&logo=github">
+        <a href="https://github.com/Keneth-Ravindu">
+          <img src="https://badges.pufler.dev/commits/monthly/Keneth-Ravindu?style=flat-square&color=yellowgreen&logo=github">
         </a>
       </td>
       <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=gayan-sachintha&label=Profile%20views&color=0e75b6&style=flat" alt="gayan-sachintha" />
+        <img src="https://komarev.com/ghpvc/?username=Keneth-Ravindu&label=Profile%20views&color=0e75b6&style=flat" alt="Keneth-Ravindu" />
       </td>
     </tr>
   </table>
