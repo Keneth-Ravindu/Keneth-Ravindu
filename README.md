@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gayan-sachintha&theme=algolia&column=7&no-frame=true&no-bg=true" alt="Gayan Sachintha's GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Keneth-Ravindu&theme=algolia&column=7&no-frame=true&no-bg=true" alt="Keneth Ravindu's GitHub Trophies"/>
   </a>
 </p>
 
@@ -49,15 +49,14 @@
 
 📬 Get In Touch!
 
-[![Email](https://img.shields.io/badge/Email-gayansachintha2000%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayansachintha2000@gmail.com?subject=Hello%20Gayan,%20From%20GitHub)
+[![Email](https://img.shields.io/badge/Email-kenethravindu2000%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenethravindu2000@gmail.com?subject=Hello%20Keneth,%20From%20GitHub)
 
 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gayan.gamage.779/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gayansachintha)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__m.r._b.o.l.e__/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayan-sachintha-52321b214/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@__b.o.l.e.__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-ravindu-a731b1271/)
+
 
 Languages and Tools
 
@@ -78,7 +77,7 @@ Coding
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 Database
 
@@ -93,19 +92,12 @@ Design
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Blender](https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white)
-![3ds Max](https://img.shields.io/badge/-3ds_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Maya](https://img.shields.io/badge/-Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
 
-Music Making
 
-![FL Studio](https://img.shields.io/badge/-FL_Studio-EE4D2E?style=for-the-badge&logo=fl-studio&logoColor=white)
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gayan-sachintha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=BD93F9&title_color=F8D866&text_color=C9D1D9"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayan-sachintha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&icon_color=BD93F9&title_color=F8D866&text_color=C9D1D9"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Keneth-Ravindu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=BD93F9&title_color=F8D866&text_color=C9D1D9"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keneth-Ravindu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&icon_color=BD93F9&title_color=F8D866&text_color=C9D1D9"/></td>
   </tr>
 </table>
