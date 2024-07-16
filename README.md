@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Keneth Ravindu</h1>
-<h3 align="center">Welcome To My Github Profile</h3>
+<h1 align="center">Hi🙋🏻‍♂️, I'm Keneth Ravindu🍃🥂</h1>
+<h2 align="center">---Full Stack Web Developer---</h2>
+<h3 align="center">Welcome To My Github</h3>
 
 <p align="center">
   <table align="center">
@@ -33,7 +34,7 @@
 
 <img alt="codnig" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif">
 
-<h3 align="center">🏆 My GitHub Achievements 🏆</h3>
+<h2 align="center">🏆 My GitHub Achievements 🏆</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -54,7 +55,7 @@
 Connect with me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gayan.gamage.779/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__m.r._b.o.l.e__/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keneth_ravindu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-ravindu-a731b1271/)
 
 
