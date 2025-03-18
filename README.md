@@ -1,5 +1,5 @@
 <h1 align="center">Hi🙋🏻‍♂️, I'm Keneth Ravindu🍃🥂</h1>
-<h2 align="center">---Full Stack Web Developer---</h2>
+<h2 align="center">---Full Stack Developer---</h2>
 <h3 align="center">Welcome To My Github</h3>
 
 <p align="center">
