@@ -42,26 +42,26 @@
   </a>
 </p>
 
-<p align="center">
+<h2 align="center">
   Explore the trophies above by clicking on them! 🌟
-</p>
+</h2>
 
 
 
-📬 Get In Touch!
+<h2>📬 Get In Touch!</h2>
 
 [![Email](https://img.shields.io/badge/Email-kenethravindu2000%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenethravindu2000@gmail.com?subject=Hello%20Keneth,%20From%20GitHub)
 
-Connect with me
+<h2>Connect with me</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/keneth.Ravindu/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keneth_ravindu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keneth-ravindu-a731b1271/)
 
 
-Languages and Tools
+<h2 align="center">Languages and Tools</h2>
 
-Coding
+<h3>Languages</h3>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -88,14 +88,14 @@ Coding
 
 
 
-Database
+<h3>Database</h3>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=00ed64)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Design
+<h3>Design</h3>
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
