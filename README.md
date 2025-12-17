@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/Keneth-Ravindu/Keneth-Ravindu/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Keneth-Ravindu/Keneth-Ravindu/output/snake-dark.svg" />
